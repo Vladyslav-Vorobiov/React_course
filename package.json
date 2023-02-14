@@ -1,0 +1,26 @@
+{
+  "name": "work6_chart",
+  "version": "1.0.0",
+  "description": "\"building chart, using git\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladyslav-Vorobiov/Work6_Git_chart.git"
+  },
+  "keywords": [
+    "js",
+    "chart"
+  ],
+  "author": "Vladyslav Vorobiov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladyslav-Vorobiov/Work6_Git_chart/issues"
+  },
+  "homepage": "https://github.com/Vladyslav-Vorobiov/Work6_Git_chart#readme",
+  "dependencies": {
+    "chart.js": "^4.2.1"
+  }
+}
